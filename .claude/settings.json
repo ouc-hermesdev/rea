@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "deny": ["Skill(anthropic-skills:karpathy-guidelines)"]
+  },
+  "skillOverrides": {
+    "anthropic-skills:karpathy-guidelines": "off"
+  }
+}
